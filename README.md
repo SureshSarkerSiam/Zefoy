@@ -56,16 +56,6 @@ $ python Run.py
   - CSS for styling responsive and visually appealing web pages.
  
 Please don't hesitate to contact me for collaboration opportunities aimed at advancing our professional goals.
- 
-## Connect with Me
- 
-<p align="center">
-    <a href="https://wa.me/+9779746638816" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/100/000000/whatsapp.png" width="50" /></a>
-    <a href="https://www.facebook.com/urssrixxhboii" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/100/000000/facebook-new.png" width="50" /></a>
-    <a href="https://t.me/harryexeee" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/100/000000/telegram-app.png" width="50" /></a>
-</p>
- 
- 
 
 ## Troubleshooting
 To ensure Zefoy works optimally, make sure your TikTok account is public and use the correct video link. Copy the link directly from the TikTok app or website to avoid errors. Valid examples include `https://vt.tiktok.com/ZSNVTS1eE/` or `https://www.tiktok.com/@rozhak.sch.id/video/7311522299532840198`.
@@ -87,4 +77,11 @@ If you find Zefoy helpful and want to support further development, consider cont
  
 ## Warning
 Using Zefoy to increase TikTok views comes with risks, including the potential violation of TikTok’s terms of service. Excessive use may result in penalties such as account suspension or banning. Always use this tool responsibly and ensure your actions comply with TikTok’s rules and legal guidelines to avoid any negative consequences.
+
+## Connect with Me
  
+<p align="center">
+    <a href="https://wa.me/+9779746638816" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/100/000000/whatsapp.png" width="50" /></a>
+    <a href="https://www.facebook.com/urssrixxhboii" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/100/000000/facebook-new.png" width="50" /></a>
+    <a href="https://t.me/harryexeee" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/100/000000/telegram-app.png" width="50" /></a>
+</p>
