@@ -20,8 +20,8 @@ $ python Run.py
 ```
  
 ## Screenshot
-![FunPic_20240807]([Screenshot_20250202_205215_50ef9f5a0f3fc24b6f0ffc8843167fe4.jpg))
- ])
+
+
 ## Troubleshooting
 To ensure Zefoy works optimally, make sure your TikTok account is public and use the correct video link. Copy the link directly from the TikTok app or website to avoid errors. Valid examples include `https://vt.tiktok.com/ZSNVTS1eE/` or `https://www.tiktok.com/@rozhak.sch.id/video/7311522299532840198`.
  
