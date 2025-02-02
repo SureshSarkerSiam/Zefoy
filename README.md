@@ -1,4 +1,4 @@
-# Zefoy - Free TikTok Views Automation
+umm# Zefoy - Free TikTok Views Automation
 ![Zefoy](https://github.com/user-attachments/assets/754c009b-0c86-49eb-9c3e-9cb29d61ed1d)
  
 **Zefoy** is a powerful tool that enhances your TikTok views effortlessly through the Termux application. By leveraging the services of [zefoy.com](https://zefoy.com), Zefoy enables you to rapidly and efficiently boost your TikTok view count, making it easier to increase your video visibility.
@@ -20,7 +20,7 @@ $ python Run.py
 ```
  
 ## Screenshot
-
+https://github.com/HARRY-EXE/HARRY-EXE/assets/94730463/6b433417-45b5-4bc9-ac0a-b74521e398ae
 
 ## Troubleshooting
 To ensure Zefoy works optimally, make sure your TikTok account is public and use the correct video link. Copy the link directly from the TikTok app or website to avoid errors. Valid examples include `https://vt.tiktok.com/ZSNVTS1eE/` or `https://www.tiktok.com/@rozhak.sch.id/video/7311522299532840198`.
